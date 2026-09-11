@@ -3,1126 +3,1351 @@
   "Files": [
     {
       "Path": "Plugins/ClassicAssist/AnimatedGif.dll",
+      "AssetName": "Plugins__ClassicAssist__AnimatedGif.dll",
       "Size": 21504,
       "Sha256": "BE2FAA161D9F433945279B57B7956B4CBCA7B1AAC45B5C677F0D9ED6D8D24E76"
     },
     {
       "Path": "Plugins/ClassicAssist/Azure.Core.dll",
+      "AssetName": "Plugins__ClassicAssist__Azure.Core.dll",
       "Size": 338368,
       "Sha256": "63E7A396AC4EDAF16574709956BE7F54301FA7C99A09B55D368FE5412BC518E8"
     },
     {
       "Path": "Plugins/ClassicAssist/ClassicAssist.Controls.dll",
+      "AssetName": "Plugins__ClassicAssist__ClassicAssist.Controls.dll",
       "Size": 61952,
       "Sha256": "80E1FE01113C6C8F60BB49316E4B279888851B36F34B7A370F2FEA5D3502C7D7"
     },
     {
       "Path": "Plugins/ClassicAssist/ClassicAssist.dll",
+      "AssetName": "Plugins__ClassicAssist__ClassicAssist.dll",
       "Size": 2384896,
       "Sha256": "03C957A0FEE76A668F5579D979E79FB3ACF7D1C13A89DA542BE0CC7427121EC1"
     },
     {
       "Path": "Plugins/ClassicAssist/ClassicAssist.Launcher.exe",
+      "AssetName": "Plugins__ClassicAssist__ClassicAssist.Launcher.exe",
       "Size": 512000,
       "Sha256": "BEF47E6E28A2099C0BFA3B92E35D7A3FE394C34395192883686E0AEBE85E66E0"
     },
     {
       "Path": "Plugins/ClassicAssist/ClassicAssist.Launcher.exe.config",
+      "AssetName": "Plugins__ClassicAssist__ClassicAssist.Launcher.exe.config",
       "Size": 830,
       "Sha256": "38359D9232A3989AD40AEE822DAF6F8BB2F9E0EA76BEE97D10C154306FD28384"
     },
     {
       "Path": "Plugins/ClassicAssist/ClassicAssist.Shared.dll",
+      "AssetName": "Plugins__ClassicAssist__ClassicAssist.Shared.dll",
       "Size": 239104,
       "Sha256": "4FBBA12E729214A4954B035D9ED2CA5A0C2799F3A8A28C81AF21097E382E5B7E"
     },
     {
       "Path": "Plugins/ClassicAssist/ClassicAssist.Updater.exe",
+      "AssetName": "Plugins__ClassicAssist__ClassicAssist.Updater.exe",
       "Size": 466432,
       "Sha256": "73EC9FB55FD85F1B03912D23D435A8B07351E9B2E10B8D0C1DB1CEFCFE4EF699"
     },
     {
       "Path": "Plugins/ClassicAssist/ClassicAssist.Updater.exe.config",
+      "AssetName": "Plugins__ClassicAssist__ClassicAssist.Updater.exe.config",
       "Size": 551,
       "Sha256": "CA7A90FBD7FF3AAAD83876E9E2EB9AF36EEBC9426EB6F8942E86C89EC5AD710F"
     },
     {
       "Path": "Plugins/ClassicAssist/CommandLine.dll",
+      "AssetName": "Plugins__ClassicAssist__CommandLine.dll",
       "Size": 225280,
       "Sha256": "2135B40FA819E58CF1942453E4409BFDEA2BE631077A354B878DE8402BE7E026"
     },
     {
       "Path": "Plugins/ClassicAssist/Crc32.NET.dll",
+      "AssetName": "Plugins__ClassicAssist__Crc32.NET.dll",
       "Size": 7680,
       "Sha256": "9EAFBEC3431A3DDC072D870DD71F96D4FD421EFF27B3F855FB29DDE31463803A"
     },
     {
       "Path": "Plugins/ClassicAssist/cs-CZ/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__cs-CZ__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "A155B8031D6F058807E51C9E895B16F6AF50FBAF8488A3731879C9EC2E7FB846"
     },
     {
       "Path": "Plugins/ClassicAssist/cs/ClassicAssist.Launcher.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__cs__ClassicAssist.Launcher.resources.dll",
       "Size": 6144,
       "Sha256": "968428BF287A8AE3C6C53EA5829736A49440010F49D374053B1F1A6F2D05CAC5"
     },
     {
       "Path": "Plugins/ClassicAssist/cs/ClassicAssist.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__cs__ClassicAssist.resources.dll",
       "Size": 39424,
       "Sha256": "48AD3550E7B113DF4E45C05A7C7DA4E638E85E34E7AF35E88CD482121A3FF463"
     },
     {
       "Path": "Plugins/ClassicAssist/cs/ClassicAssist.Shared.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__cs__ClassicAssist.Shared.resources.dll",
       "Size": 46080,
       "Sha256": "193CE8C738963B70861B6ED3068FE36D73B526FCC2A08A76295FF266DFCFEE59"
     },
     {
       "Path": "Plugins/ClassicAssist/cs/ClassicAssist.Updater.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__cs__ClassicAssist.Updater.resources.dll",
       "Size": 6656,
       "Sha256": "1BBD6FF49F81C9EEACCABC8472B259AF97AF251E1503715B7BEA57BA0D2A8593"
     },
     {
       "Path": "Plugins/ClassicAssist/cs/ExportCommands.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__cs__ExportCommands.resources.dll",
       "Size": 9216,
       "Sha256": "88001D0B721A317E90AAB522A6E66B62B00F6360E100D8BE8EC301A5C09F22A8"
     },
     {
       "Path": "Plugins/ClassicAssist/CsvHelper.dll",
+      "AssetName": "Plugins__ClassicAssist__CsvHelper.dll",
       "Size": 224256,
       "Sha256": "F0F2B1BC6CB59200F0E0A447B3836EBC5E790F59E7A7CB36B5770C1EC671C403"
     },
     {
       "Path": "Plugins/ClassicAssist/cuoapi.dll",
+      "AssetName": "Plugins__ClassicAssist__cuoapi.dll",
       "Size": 18432,
       "Sha256": "FD61B0F5FA22082D87EF37726D75C72A864A62AEDD47061B1EAC9C02C77E3B00"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Bodies.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Bodies.json",
       "Size": 2079,
       "Sha256": "C17ACBDE6A68DEF4B6EF7F01EBD3E408033EA4C34811AD4638CC049EA7F87E82"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/BuffIcons.json",
+      "AssetName": "Plugins__ClassicAssist__Data__BuffIcons.json",
       "Size": 9854,
       "Sha256": "B394622F823F43C0B7DD3AB6354449AE05A39610D2F1F81C470241C27FE9127E"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/ContainerGumpIDs.json",
+      "AssetName": "Plugins__ClassicAssist__Data__ContainerGumpIDs.json",
       "Size": 2453,
       "Sha256": "E466365C5F3E6D09ABC44E2FDEB85164E20F5D612819AA7A06C7ABADDC3086FE"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Filters/Audio/Animals.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Filters__Audio__Animals.json",
       "Size": 3029,
       "Sha256": "2C76C49A06807228F209596A3879F8784B15B7B98F8679AB6E548C0E55F978B6"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Filters/Audio/Environment.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Filters__Audio__Environment.json",
       "Size": 996,
       "Sha256": "E49FCFE4D1128C6FD106756DAA3258DDBA0BBE761B6BA22083AED1366B4DB41C"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Filters/Audio/Monsters.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Filters__Audio__Monsters.json",
       "Size": 509,
       "Sha256": "F94BEA6EE2A67BC2887CFC66D4BA31D5CE244623B109B045939D5FDD2CFE9902"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Filters/Audio/Player.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Filters__Audio__Player.json",
       "Size": 1707,
       "Sha256": "E8BBF417171EF118CDABE4F48304F1E0BBE0B3770A8D18750A23703DBB594D89"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Filters/Audio/Skills.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Filters__Audio__Skills.json",
       "Size": 1231,
       "Sha256": "9890368A4749DBE077A38939AA69C48A6B7767D08BD2DC56175D79A8A285C45E"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Filters/Audio/Spells.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Filters__Audio__Spells.json",
       "Size": 564,
       "Sha256": "ADAD2E180B3288D183AAE9569ECFAA0FBE26EEB89F62DC022D84A9AFAFEC865D"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Masteries.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Masteries.json",
       "Size": 6906,
       "Sha256": "03A751B4E8E94E963A512C4D09785C2A9D42D5605E6DF00D4079E5235E0825A3"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/MountID.json",
+      "AssetName": "Plugins__ClassicAssist__Data__MountID.json",
       "Size": 896,
       "Sha256": "E08F439BE08D744AA93BF0B32383A93EDF3E54A03703D24AAAF50FEA30444F0A"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Properties.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Properties.json",
       "Size": 12219,
       "Sha256": "A5A5C7DD6CD1F93D2C858520F7C45FB733DAC3720C4748D69FC94BDC47AC1444"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Regions.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Regions.json",
       "Size": 118002,
       "Sha256": "1B26274DE23553B527E35F33EA976ED5B19955A7604AD9D67A4949A460909B57"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Spells.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Spells.json",
       "Size": 28707,
       "Sha256": "45B97DAEA35C9CDC6A627B6BD4645466D87D8453DA22E7B08DAC34B99AAE3AB5"
     },
     {
       "Path": "Plugins/ClassicAssist/Data/Weapons.json",
+      "AssetName": "Plugins__ClassicAssist__Data__Weapons.json",
       "Size": 23012,
       "Sha256": "E9BF00BC1A819782BE7613148F18DC236151C725D6C43255892C2B20D2534848"
     },
     {
       "Path": "Plugins/ClassicAssist/de/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__de__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "5A2D9E14C6197BED00017A8D8054579E72754EC3C91E13DE505F7243916A714E"
     },
     {
       "Path": "Plugins/ClassicAssist/en-AU/ClassicAssist.Launcher.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__en-AU__ClassicAssist.Launcher.resources.dll",
       "Size": 6144,
       "Sha256": "04C6562356DA6273785830A16B6A9C09AE3DA6AFE3E3FB3D893855EC555B700E"
     },
     {
       "Path": "Plugins/ClassicAssist/en-AU/ClassicAssist.Shared.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__en-AU__ClassicAssist.Shared.resources.dll",
       "Size": 46080,
       "Sha256": "AC1227053DC24D8739A2EFDECAB2A69A00453F92A17DE0B644AF852D532772F9"
     },
     {
       "Path": "Plugins/ClassicAssist/en-AU/ClassicAssist.Updater.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__en-AU__ClassicAssist.Updater.resources.dll",
       "Size": 6656,
       "Sha256": "E9BC958F140480CAE745042F2F076388198CA3F0E4B7E845A87C1021961F2915"
     },
     {
       "Path": "Plugins/ClassicAssist/en-GB/ClassicAssist.Launcher.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__en-GB__ClassicAssist.Launcher.resources.dll",
       "Size": 6144,
       "Sha256": "F05A38538B9F97C04926F1D6DBC2C872A60DA7D332B747540FC348C1CBC82131"
     },
     {
       "Path": "Plugins/ClassicAssist/en-GB/ClassicAssist.Shared.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__en-GB__ClassicAssist.Shared.resources.dll",
       "Size": 46080,
       "Sha256": "7A82D9383814127261CDEDD76CC71B9B379381C5D8F1B81F0F04B335AD4B4F6D"
     },
     {
       "Path": "Plugins/ClassicAssist/en-GB/ClassicAssist.Updater.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__en-GB__ClassicAssist.Updater.resources.dll",
       "Size": 6656,
       "Sha256": "BF8E0133EDC0C951EEBB1D875CB84FCD35F8DB74ECBFC7F8E38BAF10CA8B68DA"
     },
     {
       "Path": "Plugins/ClassicAssist/es/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__es__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "DABFD3E2AF7017F341F146B65065A44A0F5280A1D614028B6D0804C5ED2FAC37"
     },
     {
       "Path": "Plugins/ClassicAssist/Exceptionless.dll",
+      "AssetName": "Plugins__ClassicAssist__Exceptionless.dll",
       "Size": 1022464,
       "Sha256": "FC8A7BE4BB992E3B30AA3735618BA7A29061529E131DF259C23B7FDDC3073B84"
     },
     {
       "Path": "Plugins/ClassicAssist/fr/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__fr__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "D0F8AC4626B15DEBDFAB7E1F2D3FB09AD20E53DB304AD8133ED671F9E36F47F6"
     },
     {
       "Path": "Plugins/ClassicAssist/GongSolutions.WPF.DragDrop.dll",
+      "AssetName": "Plugins__ClassicAssist__GongSolutions.WPF.DragDrop.dll",
       "Size": 189312,
       "Sha256": "469F272DBE10D924480477D790F1C437C3666040293E1468E8B11ADBB2D3A12E"
     },
     {
       "Path": "Plugins/ClassicAssist/Google.Apis.Auth.dll",
+      "AssetName": "Plugins__ClassicAssist__Google.Apis.Auth.dll",
       "Size": 230912,
       "Sha256": "4587395389C72DB69C18AB8AB7A194F296B4A47A0C0005C4C4D7F1699CFC2DCC"
     },
     {
       "Path": "Plugins/ClassicAssist/Google.Apis.Core.dll",
+      "AssetName": "Plugins__ClassicAssist__Google.Apis.Core.dll",
       "Size": 84992,
       "Sha256": "30016A2DC2125D4326CA29309F1372FE9C6518F8E97DB61BC7E30A694A614BC1"
     },
     {
       "Path": "Plugins/ClassicAssist/Google.Apis.dll",
+      "AssetName": "Plugins__ClassicAssist__Google.Apis.dll",
       "Size": 82944,
       "Sha256": "C076564E6E01A12C8CC8DDE47E0CABDC6C7D40CED651B8612AF9BB4043A00F05"
     },
     {
       "Path": "Plugins/ClassicAssist/Google.Apis.Drive.v3.dll",
+      "AssetName": "Plugins__ClassicAssist__Google.Apis.Drive.v3.dll",
       "Size": 162816,
       "Sha256": "48B4EB88B8B83461EC462FCAAAF388CA2351C7854FFEF99F5599D39BB15FF382"
     },
     {
       "Path": "Plugins/ClassicAssist/Hardcodet.NotifyIcon.Wpf.dll",
+      "AssetName": "Plugins__ClassicAssist__Hardcodet.NotifyIcon.Wpf.dll",
       "Size": 97280,
       "Sha256": "9C5A27AB185E32C4599816DB8DF1C7B01B08B5CB7A15933215C9A237322ABFBF"
     },
     {
       "Path": "Plugins/ClassicAssist/hu/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__hu__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "183FFB05E46A699BF540230389E8E62218DFF08A5B25D9F63951A2019B09C32A"
     },
     {
       "Path": "Plugins/ClassicAssist/ICSharpCode.AvalonEdit.dll",
+      "AssetName": "Plugins__ClassicAssist__ICSharpCode.AvalonEdit.dll",
       "Size": 620032,
       "Sha256": "202A4719E4B879DA67445AB50901D80A259F8680B5D16BC0F929E0A6F6FAD199"
     },
     {
       "Path": "Plugins/ClassicAssist/IronPython.dll",
+      "AssetName": "Plugins__ClassicAssist__IronPython.dll",
       "Size": 1815552,
       "Sha256": "2D8129B8ECD23441B0D0C4A8A31FF3A22C70D52BFEB8B33D81F9E00015CB2CAB"
     },
     {
       "Path": "Plugins/ClassicAssist/IronPython.Modules.dll",
+      "AssetName": "Plugins__ClassicAssist__IronPython.Modules.dll",
       "Size": 800768,
       "Sha256": "3781F592A071B0164F5A80E5C646F85919EE37D8994CCAEFBB8B27C4AA40E438"
     },
     {
       "Path": "Plugins/ClassicAssist/IronPython.SQLite.dll",
+      "AssetName": "Plugins__ClassicAssist__IronPython.SQLite.dll",
       "Size": 636928,
       "Sha256": "6EE8E59BCA33FBF4BB3820D4ACDA95603D3F4EAB84CCC373DD32B93E9CC7608F"
     },
     {
       "Path": "Plugins/ClassicAssist/IronPython.Wpf.dll",
+      "AssetName": "Plugins__ClassicAssist__IronPython.Wpf.dll",
       "Size": 7680,
       "Sha256": "491E32DAA841B536463A59F4A2ABCD8DC52D013854741D427E501D388F0FB526"
     },
     {
       "Path": "Plugins/ClassicAssist/it-IT/ClassicAssist.Launcher.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__it-IT__ClassicAssist.Launcher.resources.dll",
       "Size": 6656,
       "Sha256": "F35CF72B9726044AE81B5AE73A2265EEE32F2F123000ACB70E7AED94EF81772D"
     },
     {
       "Path": "Plugins/ClassicAssist/it-IT/ClassicAssist.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__it-IT__ClassicAssist.resources.dll",
       "Size": 51200,
       "Sha256": "D2C4DF8DFEE20C997B450D7515200CA451FD8194833033C4494D73A287A65AD1"
     },
     {
       "Path": "Plugins/ClassicAssist/it-IT/ClassicAssist.Shared.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__it-IT__ClassicAssist.Shared.resources.dll",
       "Size": 45568,
       "Sha256": "0FA722D9C6C72E908FE7C2446243B42C29402BD90144FB8DB60B716DC60B3068"
     },
     {
       "Path": "Plugins/ClassicAssist/it-IT/ClassicAssist.Updater.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__it-IT__ClassicAssist.Updater.resources.dll",
       "Size": 6656,
       "Sha256": "AF6CC4FD3D21BFD5B5132572E28B0EDA781A966DF101B49AF80CF0E322F80C66"
     },
     {
       "Path": "Plugins/ClassicAssist/it-IT/ExportCommands.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__it-IT__ExportCommands.resources.dll",
       "Size": 9216,
       "Sha256": "D487E7994356994B0089C1BB10B61061AA958660355395695F9F662F39D36877"
     },
     {
       "Path": "Plugins/ClassicAssist/it/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__it__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "21D416C022261911AB62BCD70FD7771C6E7F1D0B9C51AF1973E7B2428BD4D481"
     },
     {
       "Path": "Plugins/ClassicAssist/ja-JP/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__ja-JP__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "0FC7639E46A24E54DE972255CC8D732C9E49F9E70602062F534B6145BAB7D6E9"
     },
     {
       "Path": "Plugins/ClassicAssist/ko-KR/ClassicAssist.Launcher.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__ko-KR__ClassicAssist.Launcher.resources.dll",
       "Size": 6656,
       "Sha256": "953393A7728F0534A77E284554E429A6239563C7F5FF1EBFF37B1AF009CFEAB5"
     },
     {
       "Path": "Plugins/ClassicAssist/ko-KR/ClassicAssist.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__ko-KR__ClassicAssist.resources.dll",
       "Size": 35840,
       "Sha256": "F9B6D61EFFDE0D2D4F74314A43D9495A53516F9A8301204E6F7FCE8155922F2E"
     },
     {
       "Path": "Plugins/ClassicAssist/ko-KR/ClassicAssist.Shared.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__ko-KR__ClassicAssist.Shared.resources.dll",
       "Size": 47104,
       "Sha256": "A0C3632B07F79EC7FE36DD0383B138301C2FB0888D4CE3A6D645C4499E20EC55"
     },
     {
       "Path": "Plugins/ClassicAssist/ko-KR/ClassicAssist.Updater.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__ko-KR__ClassicAssist.Updater.resources.dll",
       "Size": 7168,
       "Sha256": "5FDAE316C060B55B8DAF667117E2E0E81B9DE339FFA18AE6E32127243891A6BD"
     },
     {
       "Path": "Plugins/ClassicAssist/ko-KR/ExportCommands.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__ko-KR__ExportCommands.resources.dll",
       "Size": 9216,
       "Sha256": "D0231B8B39FD379355F6BA6B18A600C131156F72C7DB29EB7409A642F78C0BAC"
     },
     {
       "Path": "Plugins/ClassicAssist/LiteDB.dll",
+      "AssetName": "Plugins__ClassicAssist__LiteDB.dll",
       "Size": 510464,
       "Sha256": "C0058A52EB8914C98092525803D0560531F2D3BF5AB0C06C4EBD60DA4518256D"
     },
     {
       "Path": "Plugins/ClassicAssist/MANIFEST.json",
+      "AssetName": "Plugins__ClassicAssist__MANIFEST.json",
       "Size": 47368,
       "Sha256": "A5A790D03996CD0CC712AB9D1B8D0130C33952B67AB6EBD186D2A41BCEDF3F22"
     },
     {
       "Path": "Plugins/ClassicAssist/MegaApiClient.dll",
+      "AssetName": "Plugins__ClassicAssist__MegaApiClient.dll",
       "Size": 114688,
       "Sha256": "DD61B33A20E1B9CF45D62F87796D3E979106D89959335644E9F5613FFFA27ED6"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Bcl.AsyncInterfaces.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Bcl.AsyncInterfaces.dll",
       "Size": 26904,
       "Sha256": "80678203BD0203A6594F4E330B22543C0DE5059382BB1C9334B7868B8F31B1BC"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Bcl.HashCode.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Bcl.HashCode.dll",
       "Size": 23424,
       "Sha256": "76B1260CE747A317E9B514433B89A81B038411FCABDDC6F9C7DBABB0742D8B81"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Dynamic.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Dynamic.dll",
       "Size": 846336,
       "Sha256": "00D8E90CBC2D6BEA5AADD15DBBD2B22EFB8EB98054B2DDA655594ADC05E9CE1F"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Expression.Interactions.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Expression.Interactions.dll",
       "Size": 91648,
       "Sha256": "F3B14DEFBD05493B8573016B08B86E5B5D53B486B0457FD75F67BF8BFF04BE38"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Graph.Core.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Graph.Core.dll",
       "Size": 176576,
       "Sha256": "94C90F27470A89C885630E04436F145ED61225847323F3A61556D8C26A109426"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Graph.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Graph.dll",
       "Size": 11253696,
       "Sha256": "4A15C725E8A1065BE0E731F51F5273241CE53A1BCB8783A8F5687800C9923F7E"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Identity.Client.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Identity.Client.dll",
       "Size": 1640880,
       "Sha256": "BCAA10EDE80BD7FC552F6C685DD5528A99BEAC2E2A60C5906D979FA6200127C5"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.IdentityModel.Abstractions.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.IdentityModel.Abstractions.dll",
       "Size": 18976,
       "Sha256": "D3265F1CAB1188EBAC29C78E0F114FF3A0B2701C8A2F5442BD4080AFE92519B0"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.IdentityModel.JsonWebTokens.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.IdentityModel.JsonWebTokens.dll",
       "Size": 89520,
       "Sha256": "3D480721286F74851CDABB0287090744B775AA9949BA0B8A5D97E82D3C069057"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.IdentityModel.Logging.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.IdentityModel.Logging.dll",
       "Size": 34192,
       "Sha256": "5506DD9AF1417C03BE3C955A013F97181084858DEBF5333BD79DCBD2DE037CF1"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.IdentityModel.Protocols.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.IdentityModel.Protocols.dll",
       "Size": 38792,
       "Sha256": "4F428D71D128E19CA390A3B98F600F8094BCE4D89FA64A12473BE5AB8B08160B"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
       "Size": 114096,
       "Sha256": "751C9E8663CD11FD96A1D5C225097AFF18EC908B4FD27D47ECB4DB3B555F72D2"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.IdentityModel.Tokens.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.IdentityModel.Tokens.dll",
       "Size": 987520,
       "Sha256": "F954A658909A23E3B73786225CBEF964126271514EBD0CCEDC21C9296F226E9D"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Scripting.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Scripting.dll",
       "Size": 141312,
       "Sha256": "F252D43156BDC44D7F7EB76592585360B960608896A2C1B1A0B099AEC5876A1B"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Scripting.Metadata.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Scripting.Metadata.dll",
       "Size": 89088,
       "Sha256": "4F3D866BEB1A68FBCBA8AF43DF34086BB84CD0E6A64F101349F79EE7433BEF2A"
     },
     {
       "Path": "Plugins/ClassicAssist/Microsoft.Xaml.Behaviors.dll",
+      "AssetName": "Plugins__ClassicAssist__Microsoft.Xaml.Behaviors.dll",
       "Size": 146472,
       "Sha256": "09B8759A4173EB4FE0CB9DD10548850AC514CC67F38C070861BAD5B67F8C419B"
     },
     {
       "Path": "Plugins/ClassicAssist/Modules.zip",
+      "AssetName": "Plugins__ClassicAssist__Modules.zip",
       "Size": 4037841,
       "Sha256": "4BB775B8D0203827A4964E8896C9B70F0ABFDD3D01922A908B8852687AF10929"
     },
     {
       "Path": "Plugins/ClassicAssist/Newtonsoft.Json.dll",
+      "AssetName": "Plugins__ClassicAssist__Newtonsoft.Json.dll",
       "Size": 711952,
       "Sha256": "E1E27AF7B07EEEDF5CE71A9255F0422816A6FC5849A483C6714E1B472044FA9D"
     },
     {
       "Path": "Plugins/ClassicAssist/nl-BE/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__nl-BE__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "337C452A286E0FF3C351E3AD31C395B08E6F092403277C3A413FEB460244F4BC"
     },
     {
       "Path": "Plugins/ClassicAssist/Octokit.dll",
+      "AssetName": "Plugins__ClassicAssist__Octokit.dll",
       "Size": 1389056,
       "Sha256": "35894916C53283A8C25DAF562218F11F67389937884750AB644009281B222605"
     },
     {
       "Path": "Plugins/ClassicAssist/pl-PL/ClassicAssist.Launcher.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__pl-PL__ClassicAssist.Launcher.resources.dll",
       "Size": 6656,
       "Sha256": "A64EB5AD75881D668D8ABEF7C2190ED389AFDD52AD4B2B93B8569A95538EF6AB"
     },
     {
       "Path": "Plugins/ClassicAssist/pl-PL/ClassicAssist.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__pl-PL__ClassicAssist.resources.dll",
       "Size": 54784,
       "Sha256": "FFEDBCFA46515A8DB96F988E947413EBAF3EC1ECF06DF05C060CAAADC77E807A"
     },
     {
       "Path": "Plugins/ClassicAssist/pl-PL/ClassicAssist.Shared.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__pl-PL__ClassicAssist.Shared.resources.dll",
       "Size": 47104,
       "Sha256": "B3540DAD0420F8EEC2214FD6A92D7DF53FAC9BAD2D3091C2424E31C20D8EC510"
     },
     {
       "Path": "Plugins/ClassicAssist/pl-PL/ClassicAssist.Updater.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__pl-PL__ClassicAssist.Updater.resources.dll",
       "Size": 6656,
       "Sha256": "C8BB2B261A07CDA170CF7AB882CDBA29853F220B47533768398A067E64B26CF8"
     },
     {
       "Path": "Plugins/ClassicAssist/pl-PL/ExportCommands.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__pl-PL__ExportCommands.resources.dll",
       "Size": 9728,
       "Sha256": "7BF2C64F4BF1BF0447DA71E33CA8F3EADAFE836495B7EFD3A562F4DAB6AD6521"
     },
     {
       "Path": "Plugins/ClassicAssist/PriorityQueue.dll",
+      "AssetName": "Plugins__ClassicAssist__PriorityQueue.dll",
       "Size": 21504,
       "Sha256": "E2C936D6342116010EB1882206A7D944247D4AC3B4A0903D304C67B6E65C6468"
     },
     {
       "Path": "Plugins/ClassicAssist/pt-BR/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__pt-BR__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "27E5AE6F563A3349B5FBC21DDDB42A1D0FC46A4F201DC1DC67D3AC08623952B3"
     },
     {
       "Path": "Plugins/ClassicAssist/Python.Dark.xshd",
+      "AssetName": "Plugins__ClassicAssist__Python.Dark.xshd",
       "Size": 2900,
       "Sha256": "313CB29772E82AE168D0391D82CD0D18E4E219C5362C7CF2DB10672A01B52831"
     },
     {
       "Path": "Plugins/ClassicAssist/Python.xshd",
+      "AssetName": "Plugins__ClassicAssist__Python.xshd",
       "Size": 2684,
       "Sha256": "7DF4ECCF27E3B125C81C2989CC1E62C8E673F4CD5B549782728BCFF9B810A3A3"
     },
     {
       "Path": "Plugins/ClassicAssist/ro/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__ro__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "DED27EE0F676FC5A0B74EE9514D3D53998A2CD2E8B01A7C94E5B44CF353B125A"
     },
     {
       "Path": "Plugins/ClassicAssist/ru/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__ru__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "0162D603C4BA920391B3ED67E7ACC36576DD9E2EC48FED59C64DC4F222C87A26"
     },
     {
       "Path": "Plugins/ClassicAssist/Semver.dll",
+      "AssetName": "Plugins__ClassicAssist__Semver.dll",
       "Size": 76288,
       "Sha256": "710E85ED5685901B455A336CF1ACFE3A9EEAE11F3D56C569D8015A93A91683AF"
     },
     {
       "Path": "Plugins/ClassicAssist/Sentry.dll",
+      "AssetName": "Plugins__ClassicAssist__Sentry.dll",
       "Size": 701440,
       "Sha256": "CB1FD95ED471FF2CFB8F74A1428D05A7A6FA4E41E68A3D3A13E297E319DD511A"
     },
     {
       "Path": "Plugins/ClassicAssist/Sounds/Bike Horn.wav",
+      "AssetName": "Plugins__ClassicAssist__Sounds__Bike Horn.wav",
       "Size": 69036,
       "Sha256": "61909C11A4F3D06AE41A910A173CD09221068BACD8937175D83FE03FAD371324"
     },
     {
       "Path": "Plugins/ClassicAssist/sv/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__sv__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "909D646CACB1D695259E8C4143C5490B72553FE1B2B3AE385183AE3723901737"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Buffers.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Buffers.dll",
       "Size": 20856,
       "Sha256": "ACCCCFBE45D9F08FFEED9916E37B33E98C65BE012CFFF6E7FA7B67210CE1FEFB"
     },
     {
       "Path": "Plugins/ClassicAssist/System.CodeDom.dll",
+      "AssetName": "Plugins__ClassicAssist__System.CodeDom.dll",
       "Size": 32384,
       "Sha256": "D4047CDC0C372B06AFC9CBED39B717FAC18DCED723E5851806A19F1BF42DE1A3"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Collections.Immutable.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Collections.Immutable.dll",
       "Size": 189312,
       "Sha256": "646D3B52A4898078F46534727BDB06FF23B72523441458B9F49ECC315BF3EF5C"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Diagnostics.DiagnosticSource.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Diagnostics.DiagnosticSource.dll",
       "Size": 168112,
       "Sha256": "19BA42737C1C0500373736968F3D15CB7897CB195049FD5F492E6FE1629DAAAB"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Drawing.Common.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Drawing.Common.dll",
       "Size": 44424,
       "Sha256": "0B1E23603F49613B623A82A2B04260642AB8B118D138726DDA6556BEAD77B966"
     },
     {
       "Path": "Plugins/ClassicAssist/System.IdentityModel.Tokens.Jwt.dll",
+      "AssetName": "Plugins__ClassicAssist__System.IdentityModel.Tokens.Jwt.dll",
       "Size": 90000,
       "Sha256": "EBECDF4D67610AEFC903CCE1CB636A73F548D0161E792B1908B81D035B5A54CB"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Memory.Data.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Memory.Data.dll",
       "Size": 21880,
       "Sha256": "C96801B5F4B0A69186B780FC325BC26C4437F72611EB2D5A14083E776C343DED"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Memory.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Memory.dll",
       "Size": 142240,
       "Sha256": "BF3FB84664F4097F1A8A9BC71A51DCF8CF1A905D4080A4D290DA1730866E856F"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Net.Http.WinHttpHandler.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Net.Http.WinHttpHandler.dll",
       "Size": 136336,
       "Sha256": "FFB06057E917FA43C83227F483630D19BDF2A2E18C651AAB8E7BDA8479693727"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Numerics.Vectors.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Numerics.Vectors.dll",
       "Size": 115856,
       "Sha256": "1D3EF8698281E7CF7371D1554AFEF5872B39F96C26DA772210A33DA041BA1183"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Reflection.Metadata.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Reflection.Metadata.dll",
       "Size": 462728,
       "Sha256": "46451E1168DD11D450AA9B6119F17CEC9A70928A40AC3C752ABF61CE809CBA6F"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Resources.Extensions.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Resources.Extensions.dll",
       "Size": 80544,
       "Sha256": "B69C9547C7BF0D6E357993D41228B6CEF033F4F2E0ECBA9F07325C7E980139AE"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Runtime.CompilerServices.Unsafe.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Runtime.CompilerServices.Unsafe.dll",
       "Size": 18024,
       "Sha256": "37768488E8EF45729BC7D9A2677633C6450042975BB96516E186DA6CB9CD0DCF"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Text.Encodings.Web.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Text.Encodings.Web.dll",
       "Size": 78976,
       "Sha256": "C792BFE3F43C894E20339252D159A96A20CCC6E13322B2D382570FF97939E501"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Text.Json.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Text.Json.dll",
       "Size": 582832,
       "Sha256": "090A9E3B9591C05BD1DF36992FDD8D4EABD4FC2A6F2D08490CA0D410AFF52E5A"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Threading.Tasks.Extensions.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Threading.Tasks.Extensions.dll",
       "Size": 25984,
       "Sha256": "4F81FFD0DC7204DB75AFC35EA4291769B07C440592F28894260EEA76626A23C6"
     },
     {
       "Path": "Plugins/ClassicAssist/System.ValueTuple.dll",
+      "AssetName": "Plugins__ClassicAssist__System.ValueTuple.dll",
       "Size": 25232,
       "Sha256": "E905D102585B22C6DF04F219AF5CBDBFA7BC165979E9788B62DF6DCC165E10F4"
     },
     {
       "Path": "Plugins/ClassicAssist/System.Windows.Interactivity.dll",
+      "AssetName": "Plugins__ClassicAssist__System.Windows.Interactivity.dll",
       "Size": 39936,
       "Sha256": "4AACE8C8A330AE8429CD8CC1B6804076D3A9FFD633470F91FD36BDD25BB57876"
     },
     {
       "Path": "Plugins/ClassicAssist/Trinet.Core.IO.Ntfs.dll",
+      "AssetName": "Plugins__ClassicAssist__Trinet.Core.IO.Ntfs.dll",
       "Size": 19456,
       "Sha256": "2C06CD4FA6350DD4E5644E6931F76A8F442ED922EEAF391999C4D8058CD65A0A"
     },
     {
       "Path": "Plugins/ClassicAssist/VirtualizingWrapPanel.dll",
+      "AssetName": "Plugins__ClassicAssist__VirtualizingWrapPanel.dll",
       "Size": 54272,
       "Sha256": "4B6F1CF0969C2DA5B42791381B3279E3EEB764F3533CC07C450C0ECE96E1A7C7"
     },
     {
       "Path": "Plugins/ClassicAssist/WebDav.Client.dll",
+      "AssetName": "Plugins__ClassicAssist__WebDav.Client.dll",
       "Size": 65024,
       "Sha256": "3B2E5FC85D3478FA49D81597039AB97D7DF159976702ABC2F12FA668002562A3"
     },
     {
       "Path": "Plugins/ClassicAssist/Xceed.Wpf.AvalonDock.dll",
+      "AssetName": "Plugins__ClassicAssist__Xceed.Wpf.AvalonDock.dll",
       "Size": 455680,
       "Sha256": "58E6BD9C9CA5A74B07D0B7FBA334D9DFDBB2C69E5D5FF15D00BA50C92E997845"
     },
     {
       "Path": "Plugins/ClassicAssist/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
+      "AssetName": "Plugins__ClassicAssist__Xceed.Wpf.AvalonDock.Themes.Aero.dll",
       "Size": 87040,
       "Sha256": "E88D694254438EDE011B3C332AD8CE8A81199082EE606B60770FB0AA5D9940F3"
     },
     {
       "Path": "Plugins/ClassicAssist/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
+      "AssetName": "Plugins__ClassicAssist__Xceed.Wpf.AvalonDock.Themes.Metro.dll",
       "Size": 79360,
       "Sha256": "10D363BED03B459B2C0D2EE9A6B5B703A6542B1D52538F1A27922BEC115086DE"
     },
     {
       "Path": "Plugins/ClassicAssist/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+      "AssetName": "Plugins__ClassicAssist__Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
       "Size": 84480,
       "Sha256": "0A2C23A7C30C0F018CE68A08DDA65853FB62F096F2073ED3E55175D335265170"
     },
     {
       "Path": "Plugins/ClassicAssist/Xceed.Wpf.Toolkit.dll",
+      "AssetName": "Plugins__ClassicAssist__Xceed.Wpf.Toolkit.dll",
       "Size": 1238528,
       "Sha256": "0AC3B6FCB047A196B74C441BE31D7D1C9EDBE8C80750F3D654065B47D9CDA01A"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/third_party/yapf_diff/LICENSE",
+      "AssetName": "Plugins__ClassicAssist__yapf__third_party__yapf_diff__LICENSE",
       "Size": 12482,
       "Sha256": "168A2223AC4016F08B91BE94E6841F18D48C7BC21BDC9B305FFFE13A3C245C64"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/third_party/yapf_diff/yapf_diff.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__third_party__yapf_diff__yapf_diff.py",
       "Size": 4945,
       "Sha256": "ED5F3BEC66C1442051BEA81D6950DD2DC0EBEF1BB1D80DE21D20FE04D4A5FDDF"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/third_party/yapf_diff/__init__.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__third_party__yapf_diff____init__.py",
       "Size": 0,
       "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/third_party/__init__.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__third_party____init__.py",
       "Size": 0,
       "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/blank_line_calculator.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__blank_line_calculator.py",
       "Size": 6514,
       "Sha256": "F9DE9663EF8D104F5F5ACB81A5C0F1AD99D7CFB2B2EE43381B10F922BD682B95"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/comment_splicer.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__comment_splicer.py",
       "Size": 15619,
       "Sha256": "E7F8CB53E419139403A3834868B642557FD248F5EE537CCEA9E996D59073F330"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/continuation_splicer.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__continuation_splicer.py",
       "Size": 1828,
       "Sha256": "AD63A90CE4392E173D2EF4050EB5C23477ED2565FE32BAF1811990F29BE45D64"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/errors.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__errors.py",
       "Size": 1528,
       "Sha256": "45BF2EB1E019AB843993BC7C12B2A64742235A2DDE74F748F73C57F7E9205F50"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/file_resources.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__file_resources.py",
       "Size": 9931,
       "Sha256": "CE2478C1351B9525AAC4BABCFE4EC47443EFC2AF289A32610C0021A791BD4558"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/format_decision_state.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__format_decision_state.py",
       "Size": 49223,
       "Sha256": "95FEB41C9C9AAA9FC5238D5C352DE1B162771D2BD1B400CDD5E33AFF8EF4DF81"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/format_token.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__format_token.py",
       "Size": 11198,
       "Sha256": "895DAF6329956B1E924E10FA30099EED03E56F0E7E0935CA78C17E6B7EFA7579"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/identify_container.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__identify_container.py",
       "Size": 2386,
       "Sha256": "020D76ADF5963C35AB9C4C6994E4E919A02C657C374CF5EF010D64EB930634B8"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/line_joiner.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__line_joiner.py",
       "Size": 4025,
       "Sha256": "CD3D75429C2EF08A85B7143B2E290A50ADA1C0BA1B1FC661607AA396BC3B9C8F"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/logical_line.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__logical_line.py",
       "Size": 26411,
       "Sha256": "CE24870180B1CD2FFB591003F209E868AEAC8752A2BE14B5F55CD1D30F5C4C91"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/object_state.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__object_state.py",
       "Size": 8355,
       "Sha256": "2620E8BAD027640D7A469E9E8D8876358AFDBC9B36D5A995CFAB84141EA259CF"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/py3compat.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__py3compat.py",
       "Size": 4401,
       "Sha256": "876B7A96F54773538DD2A5DE6F46B8C8B079049CE28E1D7F4045589F8C05BE29"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/pytree_unwrapper.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__pytree_unwrapper.py",
       "Size": 15171,
       "Sha256": "7253D0B60634B43D23603D0050BB3EDFC467D725B8999F35AD08E600940D857C"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/pytree_utils.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__pytree_utils.py",
       "Size": 11284,
       "Sha256": "C590EF23E5A0187AC09D2F5AAE368489CC14C2AA2DBFA1B5F1C7B29AB0DDBE48"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/pytree_visitor.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__pytree_visitor.py",
       "Size": 4664,
       "Sha256": "8E1AFBFECC0411CCE78A0A065A2015231BCBBFA1D4451A739C7D9F7E630B1C0E"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/reformatter.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__reformatter.py",
       "Size": 28991,
       "Sha256": "1BA4CA59162510E4ECE24206EB8F728651AB09EA97658963AEE44BFD58C280A5"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/split_penalty.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__split_penalty.py",
       "Size": 25098,
       "Sha256": "61F3C035FEA7A912E981F811070026B66BDC9892D32475BE80B99D117D662BCD"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/style.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__style.py",
       "Size": 32745,
       "Sha256": "10B637ABFEFD88FA4BEC3C442A9E94331813AC982D47C538CF7A0BA41BBDAECB"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/subtypes.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__subtypes.py",
       "Size": 1184,
       "Sha256": "4F0E369C75A79AD576894542182780F85E61124042BC64203169445C41035C03"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/subtype_assigner.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__subtype_assigner.py",
       "Size": 19540,
       "Sha256": "21A129CAA1BD6309C0165811E6913DBBAE1B49C69F1421835B295CE37FF3842A"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/unwrapped_line.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__unwrapped_line.py",
       "Size": 26563,
       "Sha256": "72EAE04FE1B36792E2DCC5732F3E91D5A9938D115DC70A0D792C13EBED6119D1"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/verifier.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__verifier.py",
       "Size": 3135,
       "Sha256": "0ACCE70BBE2AC8494F1B55E21D32C33E984A0CD9716D8B97154EE390E1C915ED"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/yapf_api.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib__yapf_api.py",
       "Size": 12220,
       "Sha256": "27022097E51F80AE8D5000C81F86034965F61385C8E0D12ADE2CCFFB115D8585"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/yapflib/__init__.py",
+      "AssetName": "Plugins__ClassicAssist__yapf__yapflib____init__.py",
       "Size": 609,
       "Sha256": "F1F7F163576762D41273C3AF74FEF52A83A6DD306CE0FA9518D3BAE30BE8EF03"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/__init__.py",
+      "AssetName": "Plugins__ClassicAssist__yapf____init__.py",
       "Size": 12898,
       "Sha256": "A712F6D55E31EECBCED6F85A377B75C2FBC4B05F1B8FA56E5D15587B4BCC03A1"
     },
     {
       "Path": "Plugins/ClassicAssist/yapf/__main__.py",
+      "AssetName": "Plugins__ClassicAssist__yapf____main__.py",
       "Size": 698,
       "Sha256": "4E69A8EBAD35DE6A00CD1ED3116C602345C9EBE82EC5836EDB2A465A62EA55B4"
     },
     {
       "Path": "Plugins/ClassicAssist/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__zh-Hans__Xceed.Wpf.AvalonDock.resources.dll",
       "Size": 6144,
       "Sha256": "62BB29F3D8E124ACF190E0BFD5D2B1767DD3B9D7C7FAA948ABBDA851907077BB"
     },
     {
       "Path": "Plugins/ClassicAssist/zh/ClassicAssist.Launcher.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__zh__ClassicAssist.Launcher.resources.dll",
       "Size": 6144,
       "Sha256": "3680A9A4070A0E47937E8D8CC0931D830BD6D9B35608F91CE74F90CB69BEC6F2"
     },
     {
       "Path": "Plugins/ClassicAssist/zh/ClassicAssist.Shared.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__zh__ClassicAssist.Shared.resources.dll",
       "Size": 43520,
       "Sha256": "3F9920E5B95A3D2880F94D746F5B3976343A3F89997B7696BEF6719691DA5A97"
     },
     {
       "Path": "Plugins/ClassicAssist/zh/ClassicAssist.Updater.resources.dll",
+      "AssetName": "Plugins__ClassicAssist__zh__ClassicAssist.Updater.resources.dll",
       "Size": 5632,
       "Sha256": "E66CEC3806F923FD8BB048EA7D5E557D76BA1156DC19DD8EF8781F0AECCE3A7A"
     },
     {
       "Path": "Plugins/ClassicAssist/zlib32.dll",
+      "AssetName": "Plugins__ClassicAssist__zlib32.dll",
       "Size": 57344,
       "Sha256": "B1720D0F5100DB38DA7BAEA9C0C6E17322C14F465783DCAD84377E3EA1D14106"
     },
     {
       "Path": "Plugins/ClassicAssist/zlib64.dll",
+      "AssetName": "Plugins__ClassicAssist__zlib64.dll",
       "Size": 74240,
       "Sha256": "1231361C822E0CA31D51FB16F07035FC134EB7CEBFBBB420C120A7109EBF5556"
     },
     {
       "Path": "Plugins/Razor/animdata.csv",
+      "AssetName": "Plugins__Razor__animdata.csv",
       "Size": 10151,
       "Sha256": "D9418ED26D11D688F0124C47DD02FD71DD409FDE4B2A92CED43D92D6C6F1C465"
     },
     {
       "Path": "Plugins/Razor/counters.xml",
+      "AssetName": "Plugins__Razor__counters.xml",
       "Size": 3173,
       "Sha256": "F64699AC31E0C001304137DB66619BB66D3561A4EC1BD77DAF1BE4F8EFB03384"
     },
     {
       "Path": "Plugins/Razor/Crypt.dll",
+      "AssetName": "Plugins__Razor__Crypt.dll",
       "Size": 172544,
       "Sha256": "F9650D4DAF11C5B32A539A8630FE96F53CFA9A35370005301EC14CE643B70B5F"
     },
     {
       "Path": "Plugins/Razor/cuoapi.dll",
+      "AssetName": "Plugins__Razor__cuoapi.dll",
       "Size": 18432,
       "Sha256": "FD61B0F5FA22082D87EF37726D75C72A864A62AEDD47061B1EAC9C02C77E3B00"
     },
     {
       "Path": "Plugins/Razor/doors.xml",
+      "AssetName": "Plugins__Razor__doors.xml",
       "Size": 2038,
       "Sha256": "5E66A53E19CA82175632D427B93FD7F882AD8D1272C682BBC023B81806118119"
     },
     {
       "Path": "Plugins/Razor/dotNet.nsh",
+      "AssetName": "Plugins__Razor__dotNet.nsh",
       "Size": 7231,
       "Sha256": "241851ED098E421D9220AF4F73504CF91AAA06E952354F87E89B11CFB83F7CC6"
     },
     {
       "Path": "Plugins/Razor/FastColoredTextBox.dll",
+      "AssetName": "Plugins__Razor__FastColoredTextBox.dll",
       "Size": 270848,
       "Sha256": "42791CFF048B9CE868C9903A7761FD2E199D98FF77879BE46BCCC4541834FFE0"
     },
     {
       "Path": "Plugins/Razor/guardlines.def",
+      "AssetName": "Plugins__Razor__guardlines.def",
       "Size": 2836,
       "Sha256": "D262F1A9BED7123C52144E55C249CA5EAED173EE1AD3167FD04ECA71E89CD5E7"
     },
     {
       "Path": "Plugins/Razor/items.xml",
+      "AssetName": "Plugins__Razor__items.xml",
       "Size": 465044,
       "Sha256": "A5EEF54B0B73AD54820A8562B6DB80CA4AA9E6E822BCAB6F6B510EACD50DAF68"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.bg",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.bg",
       "Size": 15247,
       "Sha256": "FB882CBBBB5BEAFAF00612CC67FA9DD653CBD1259CD728B9C0D79CE2C82614DC"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.CHS",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.CHS",
       "Size": 20348,
       "Sha256": "EA2F8F2B5D0AD41B2868BEFF892354B923EE7D0B454EC1BCD40EDBB4E68B3C50"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.cht",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.cht",
       "Size": 20494,
       "Sha256": "A40ADF0C0C93C4B442E7E54C692441CC5CF049DFECC0EFB387C0B24246CEF728"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.deu",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.deu",
       "Size": 25207,
       "Sha256": "1C178ED72EF114DA9F515EBA125D38A03DE941D83FCDC606810F285F22C0A355"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.enu",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.enu",
       "Size": 30977,
       "Sha256": "D37250F31BC8D9091589422557648100199310A1FE4F13245532B92F7C39310F"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.esp",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.esp",
       "Size": 15575,
       "Sha256": "372E9A083D328516B5327AADBA566C1A254FB4891EC6D21901304690EB2B1554"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.ita",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.ita",
       "Size": 15276,
       "Sha256": "FB6481B9A4517F3F5A7082336DFBB83B7D4CFB8E5F59C8DE6B423D43D8E2FF62"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.pl",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.pl",
       "Size": 22005,
       "Sha256": "2A626775090C9A45BCEF75BE93000C4B9171F3097F1FA5F27A06C0CC792535B1"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.PTB",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.PTB",
       "Size": 16039,
       "Sha256": "A865B6607D14AF69D8B3155739E54F2D6052CEAAB6348156130AA839BC2D90B9"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.rus",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.rus",
       "Size": 32914,
       "Sha256": "888857AC2C8DB9E5630F13F37575F91A0803E93AFEEC267B0C34264A349CC6E8"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.swe",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.swe",
       "Size": 22064,
       "Sha256": "65DF3BB1C01BA6198737D877F9D56B8998123C0C75057ABC903B60E5BD9778DE"
     },
     {
       "Path": "Plugins/Razor/Language/Razor_lang.tur",
+      "AssetName": "Plugins__Razor__Language__Razor_lang.tur",
       "Size": 18218,
       "Sha256": "7A31865DD22497850F2486FF840FE154972479C43824231921DABB4BC3263958"
     },
     {
       "Path": "Plugins/Razor/license.txt",
+      "AssetName": "Plugins__Razor__license.txt",
       "Size": 3971,
       "Sha256": "49DBA750D453D404A67155F8C55C3158946BAA13D5295DFD780F1FA186C6AE03"
     },
     {
       "Path": "Plugins/Razor/Loader.dll",
+      "AssetName": "Plugins__Razor__Loader.dll",
       "Size": 97792,
       "Sha256": "50DC507F2F3821093D969F42E2692D2DC6BF308C479686011651A7A0F532A55A"
     },
     {
       "Path": "Plugins/Razor/overrides.def",
+      "AssetName": "Plugins__Razor__overrides.def",
       "Size": 329,
       "Sha256": "049BB2526DACBA0F2708A12D550F49A9882268D48A6ECE8CE356ED959A9505DA"
     },
     {
       "Path": "Plugins/Razor/Platform.dll",
+      "AssetName": "Plugins__Razor__Platform.dll",
       "Size": 107008,
       "Sha256": "DF72B9CAF46433E8B9E3EA7BC1E7AE1B22843D436E5D9A93FA7027A01B71E6C0"
     },
     {
       "Path": "Plugins/Razor/Razor.exe",
+      "AssetName": "Plugins__Razor__Razor.exe",
       "Size": 1642496,
       "Sha256": "212FFD780B8B9B3A7821B97CA317C081904654D39DA01B4F8EAA3FFD977DF181"
     },
     {
       "Path": "Plugins/Razor/Razor.exe.config",
+      "AssetName": "Plugins__Razor__Razor.exe.config",
       "Size": 1213,
       "Sha256": "B233F6D17DE94FE5B52BC29133FBFF3E35AC83D10405645DAF91109F226A7640"
     },
     {
       "Path": "Plugins/Razor/Razor.nsi",
+      "AssetName": "Plugins__Razor__Razor.nsi",
       "Size": 5149,
       "Sha256": "39215E96BF40F8F5C876345AC28A9E354207D0A15E6045EA215BA10D5400F831"
     },
     {
       "Path": "Plugins/Razor/spells.def",
+      "AssetName": "Plugins__Razor__spells.def",
       "Size": 8222,
       "Sha256": "172C6647684A1BA6859BA14B15ACE29D19BF97A22AB7DDE4231BA62770FA6821"
     },
     {
       "Path": "Plugins/Razor/unrar.dll",
+      "AssetName": "Plugins__Razor__unrar.dll",
       "Size": 224888,
       "Sha256": "7F0429F1F7201B8666A8E673A7E402E92417E664694ED4877E569373188B3154"
     },
     {
       "Path": "Plugins/Razor/uorguardlines.def",
+      "AssetName": "Plugins__Razor__uorguardlines.def",
       "Size": 2892,
       "Sha256": "A2F7EFA5075FE823B8B6968478EE63C98108F7A84B4CF2FA697650858C671470"
     },
     {
       "Path": "Plugins/Razor/zlib.dll",
+      "AssetName": "Plugins__Razor__zlib.dll",
       "Size": 165944,
       "Sha256": "274C65E40CA98FAB5045489A809E025F27C2A92A73CB50B8C15AC2753137808E"
     },
     {
       "Path": "UltimaOnline/art.mul",
+      "AssetName": "UltimaOnline__art.mul",
       "Size": 137594224,
       "Sha256": "BA230FA790E68E6CC72DA4B8FD48DE47E3C9F6D2313C6275D0F3480779D930F6"
     },
     {
       "Path": "UltimaOnline/artidx.mul",
+      "AssetName": "UltimaOnline__artidx.mul",
       "Size": 982608,
       "Sha256": "33227DDDD1F4663C01B94EA3641A757180A59B8B85BBB9151157A0033A2B5CCC"
     },
     {
       "Path": "UltimaOnline/artLegacyMUL.uop",
+      "AssetName": "UltimaOnline__artLegacyMUL.uop",
       "Size": 149177558,
       "Sha256": "6B5BACEA9A234148A3B3601ADB6DB269EFCE0D5554229D1FA0DC26C88BA06DC2"
     },
     {
       "Path": "UltimaOnline/Cliloc.enu",
+      "AssetName": "UltimaOnline__Cliloc.enu",
       "Size": 6981409,
       "Sha256": "E206D889A75D5A6E1D52A7529D33AB6187FEBA0195C9E253AEDDBC00AB08D3D1"
     },
     {
       "Path": "UltimaOnline/gumpartLegacyMUL.uop",
+      "AssetName": "UltimaOnline__gumpartLegacyMUL.uop",
       "Size": 153559680,
       "Sha256": "D930B52374F2C3483E127A0783522F1CD40AAFCC827A3C687C6A3C3258F9EC44"
     },
     {
       "Path": "UltimaOnline/hues.mul",
+      "AssetName": "UltimaOnline__hues.mul",
       "Size": 265500,
       "Sha256": "FFD4F58B527C1317724F65FC2C8A9A183D4DEEA02F82A98F34D81AD0E1E8E00A"
     },
     {
       "Path": "UltimaOnline/map0LegacyMUL.uop",
+      "AssetName": "UltimaOnline__map0LegacyMUL.uop",
       "Size": 89965540,
       "Sha256": "A277E16EA4E12A829DC1B00F9FD1C302A59E23797A12ACD887FFF0610119137A"
     },
     {
       "Path": "UltimaOnline/map1LegacyMUL.uop",
+      "AssetName": "UltimaOnline__map1LegacyMUL.uop",
       "Size": 89965544,
       "Sha256": "B0FD658D0764BC63656DFFE761A05D9568D2427698C34F3E21E86BCD39318BD6"
     },
     {
       "Path": "UltimaOnline/map2LegacyMUL.uop",
+      "AssetName": "UltimaOnline__map2LegacyMUL.uop",
       "Size": 11326368,
       "Sha256": "FFA36AF576F8C8E413BA2714BB45DB2E40EE09530908F15991A3E0DF9856DC41"
     },
     {
       "Path": "UltimaOnline/map3LegacyMUL.uop",
+      "AssetName": "UltimaOnline__map3LegacyMUL.uop",
       "Size": 16093906,
       "Sha256": "B764E1EEF801059C49CD84142311A8B3AF39B003718B01AA2D3E1A1073332B1D"
     },
     {
       "Path": "UltimaOnline/map4LegacyMUL.uop",
+      "AssetName": "UltimaOnline__map4LegacyMUL.uop",
       "Size": 6456971,
       "Sha256": "4FAAE6161524DAFE0282917AFC6E92E641205DF7488279EFE7F5EE0AD9E60051"
     },
     {
       "Path": "UltimaOnline/map5LegacyMUL.uop",
+      "AssetName": "UltimaOnline__map5LegacyMUL.uop",
       "Size": 16093905,
       "Sha256": "6CCC230BDA5F76D285D450E8017D1E47252249445079D63412816AD99559994F"
     },
     {
       "Path": "UltimaOnline/staidx0.mul",
+      "AssetName": "UltimaOnline__staidx0.mul",
       "Size": 5505024,
       "Sha256": "F55834FD9518B7A69ECE5C0BF04594272C7E0CCCA3CF1007F8B777994515C1AF"
     },
     {
       "Path": "UltimaOnline/staidx1.mul",
+      "AssetName": "UltimaOnline__staidx1.mul",
       "Size": 5505024,
       "Sha256": "10325D0BB5F35D3BD76641208CBAC7FD8FDE1D4BB38946BC9ABEC285088E076E"
     },
     {
       "Path": "UltimaOnline/staidx2.mul",
+      "AssetName": "UltimaOnline__staidx2.mul",
       "Size": 691200,
       "Sha256": "C32315FB07885D0E474391AC40DE74BBA60A0D4A64C6A774A7108404792076CA"
     },
     {
       "Path": "UltimaOnline/staidx3.mul",
+      "AssetName": "UltimaOnline__staidx3.mul",
       "Size": 983040,
       "Sha256": "DE067CF462C2AA831F72E332EB808C52E11C1FAA68861CA5D540179B4C1683AD"
     },
     {
       "Path": "UltimaOnline/staidx4.mul",
+      "AssetName": "UltimaOnline__staidx4.mul",
       "Size": 393132,
       "Sha256": "1521F3E40FCCD78C530A090136FA85FC2B436C9BB19A135FE7357C9F19B46282"
     },
     {
       "Path": "UltimaOnline/staidx5.mul",
+      "AssetName": "UltimaOnline__staidx5.mul",
       "Size": 983040,
       "Sha256": "D6735911B2A9E763DCD8D91DDB040D48FB4A2E6B7FDAE12F4271011E58C56CBE"
     },
     {
       "Path": "UltimaOnline/statics0.mul",
+      "AssetName": "UltimaOnline__statics0.mul",
       "Size": 20306335,
       "Sha256": "A8C4EEDEC623943836C4996BAA9EF71143094039BFE68B38D388D238B8B13BD4"
     },
     {
       "Path": "UltimaOnline/statics1.mul",
+      "AssetName": "UltimaOnline__statics1.mul",
       "Size": 22286502,
       "Sha256": "F1556889D7F983526059CA06B429400737F1C25B2D9B74F3E5EC4B12B2601CDD"
     },
     {
       "Path": "UltimaOnline/statics2.mul",
+      "AssetName": "UltimaOnline__statics2.mul",
       "Size": 2500106,
       "Sha256": "A6F8F1826112367010D4243BCAE2DBB6B16232AF9469C1437E39FA71A3F562C8"
     },
     {
       "Path": "UltimaOnline/statics3.mul",
+      "AssetName": "UltimaOnline__statics3.mul",
       "Size": 2321235,
       "Sha256": "C003DDFF11A459C1C76C68615C350DD5C7A3E5A7F6112FB697DE5E04D4239181"
     },
     {
       "Path": "UltimaOnline/statics4.mul",
+      "AssetName": "UltimaOnline__statics4.mul",
       "Size": 1194053,
       "Sha256": "E09B2D0C057910D3F4C7C86E0D0F1E0BE16AF4CD29C14B5D975BEDEFD67A15B7"
     },
     {
       "Path": "UltimaOnline/statics5.mul",
+      "AssetName": "UltimaOnline__statics5.mul",
       "Size": 3452127,
       "Sha256": "1AA4D692FFCE66D628B39E5B30BFFF51D112261F82057C794408337EB84BAAE9"
     },
     {
       "Path": "UltimaOnline/tiledata.mul",
+      "AssetName": "UltimaOnline__tiledata.mul",
       "Size": 3188736,
       "Sha256": "DB3E8CA6173E7F8C0B27A3730EA6169678E95358FB2EE8BED5F8A72E9F1D449B"
     }
