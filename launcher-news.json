@@ -1,6 +1,24 @@
 ﻿{
-  "UpdatedAtUtc": "2026-09-12T17:56:06Z",
+  "UpdatedAtUtc": "2026-09-14T01:53:25Z",
   "Items": [
+    {
+      "Id": "1548836320036782101",
+      "Autor": "C E I F A D O R",
+      "Conteudo": "A partir de agora, o processo será muito mais simples:\n\n1. Abra o `MysteriousAgeUpdater.exe`;\n2. aguarde a verificação dos arquivos;\n3. o launcher será aberto automaticamente;\n4. selecione seu perfil e personagem;\n5. clique em **JOGAR**;\n6. o jogo e o MysteriousAssist serão iniciados juntos.\n\nO botão **JOGAR** somente será liberado quando os arquivos, o perfil e o personagem estiverem prontos.\n\n## 🛠️ PRECISOU CORRIGIR ALGUM ARQUIVO?\n\nO próprio launcher possui a opção **REPARAR PELO UPDATER**.\n\nEla poderá ser utilizada caso algum arquivo seja apagado, modificado ou corrompido. O updater verificará tudo novamente e baixará somente o que for necessário.\n\nEste lançamento representa uma nova etapa para o Mysterious Age. Nosso objetivo é oferecer uma experiência cada vez mais completa, estável e exclusiva para toda a comunidade.\n\nAgradecemos a todos que acompanharam os testes, enviaram sugestões e ajudaram durante o desenvolvimento.\n\n**Nos vemos em Velmora!** ⚔️🏰\n\n🌐 **https://mysteriousage.com.br**\n@everyone",
+      "DataUtc": "2026-09-13T23:22:34Z"
+    },
+    {
+      "Id": "1548836275719634975",
+      "Autor": "C E I F A D O R",
+      "Conteudo": "## ⚔️ NOVO GERENCIAMENTO DE PERSONAGENS\n\nO launcher agora consulta e organiza os personagens vinculados ao seu perfil.\n\nCom ele, você poderá:\n\n* selecionar o personagem com o qual deseja entrar;\n* acessar diretamente o personagem escolhido;\n* atualizar a lista de personagens;\n* criar o primeiro personagem de uma conta nova;\n* acessar a tela de gerenciamento para criar ou excluir personagens;\n* alternar entre diferentes contas e perfis;\n* manter até três clientes abertos pelo mesmo launcher, respeitando o limite do servidor.\n\nO launcher continuará aberto enquanto você joga. Assim, será possível escolher outro perfil ou personagem e iniciar um novo cliente sem precisar abrir vários launchers.\n\nAo realizar logoff, aquele cliente será encerrado e você poderá retornar ao launcher para escolher outro personagem.\n\n## 🧙 MYSTERIOUSASSIST INTEGRADO\n\nO Mysterious Age agora possui seu próprio assistente oficial: o **MysteriousAssist**.\n\nEle já vem integrado e é carregado automaticamente junto com o jogo. Não será mais necessário escolher entre diferentes assistentes ou configurar manualmente sua inicialização.\n\nO MysteriousAssist oferece:\n\n* **Macros Rápidos**, com criação simplificada;\n* opções organizadas de magias, habilidades e ações;\n* configuração de atalhos e hotkeys;\n* criação de macros sem precisar escrever comandos;\n* suporte a scripts para jogadores avançados;\n* recursos de organização, combate, cura, movimentação e utilidades;\n* integração direta com o Mysterious Engine.\n\nPara abrir ou trazer o assistente para frente, utilize o botão **EXIBIR ASSISTENTE** dentro do launcher.\n\n## 🔄 ATUALIZAÇÕES AUTOMÁTICAS",
+      "DataUtc": "2026-09-13T23:22:24Z"
+    },
+    {
+      "Id": "1548836229091426344",
+      "Autor": "C E I F A D O R",
+      "Conteudo": "# 🏰 O NOVO LAUNCHER DO MYSTERIOUS AGE ESTÁ DISPONÍVEL!\n\nÉ com muito trabalho, dedicação e orgulho que anunciamos oficialmente a chegada do nosso novo **Mysterious Age Launcher**!\n\nDesenvolvemos uma plataforma própria para tornar a entrada no jogo mais simples, rápida e organizada, reunindo atualização automática, gerenciamento de personagens e nosso próprio assistente em um único lugar.\n\n## 🆕 PARA NOVOS JOGADORES\n\nQuem ainda não possui o Mysterious Age deve baixar o instalador diretamente em nosso site:\n\n🌐 **https://mysteriousage.com.br**\n\nApós a instalação, utilize sempre o **MysteriousAgeUpdater.exe** para iniciar o Mysterious Age.\n\nO updater verificará automaticamente todos os arquivos, baixará o que estiver faltando e abrirá o launcher somente quando tudo estiver pronto para jogar.\n\n## ♻️ PARA QUEM JÁ TEM O JOGO INSTALADO\n\nNão é necessário baixar tudo novamente.\n\nFeche o jogo, o launcher e o assistente. Depois, abra:\n\n📁 `C:\\Mysterious Age Shard\\MysteriousAgeUpdater.exe`\n\nO updater baixará automaticamente apenas os arquivos novos ou alterados, incluindo o novo launcher, o Engine atualizado e o MysteriousAssist.",
+      "DataUtc": "2026-09-13T23:22:13Z"
+    },
     {
       "Id": "1548314826999210027",
       "Autor": "D I O N I S I O",
@@ -18,24 +36,6 @@
       "Autor": "D I O N I S I O",
       "Conteudo": "@everyone",
       "DataUtc": "2026-09-09T14:07:17Z"
-    },
-    {
-      "Id": "1547246995251536073",
-      "Autor": "D I O N I S I O",
-      "Conteudo": "---\n\n# 📷 SUAS SCREENSHOTS TAMBÉM AJUDAM O SHARD\n\nO sistema de Registro de Batalhas não existe somente para distribuir Gold.\n\nCada screenshot publicada ajuda a construir uma imagem real daquilo que acontece no **Mysterious Age**.\n\nE queremos ir além.\n\n## 🌎 OS MELHORES CLICKS PODERÃO SER UTILIZADOS NAS REDES SOCIAIS E DIVULGAÇÕES OFICIAIS DO MYSTERIOUS AGE.\n\nUma grande batalha, um grupo reunido ou aquele momento perfeito durante um boss pode acabar se tornando uma imagem utilizada para apresentar nosso mundo para centenas de outras pessoas.\n\nPor isso, caprichem nos clicks.\n\nNão queremos mostrar apenas sistemas.\n\nQueremos mostrar **jogadores vivendo esses sistemas**.\n\n---\n\n# ❤️ PRECISAMOS DA COMUNIDADE NESSA NOVA FASE\n\nEstamos trabalhando para melhorar a experiência de quem já está conosco, receber melhor quem está chegando e trazer novos aventureiros para o Mysterious Age.\n\nDe nossa parte, continuaremos trabalhando em sistemas, conteúdo, integração, melhorias e divulgação.\n\nDe vocês, existem muitas maneiras de ajudar:\n\n**Joguem.**\n\n**Recebam os novatos.**\n\n**Movimentem o Discord.**\n\n**Compartilhem suas batalhas.**\n\n**Convidem antigos amigos.**\n\n**Divulguem o shard.**\n\nE quem puder e quiser contribuir através da `.loja`, agora com **preços reduzidos**, também estará ajudando diretamente a tornar possível um investimento maior na divulgação e no crescimento do projeto.\n\nAinda temos bastante trabalho pela frente.\n\nMas quanto mais pessoas caminharem conosco, mais longe podemos levar o **Mysterious Age**.\n\n##  Mate. Registre. Compartilhe.\n##  Receba quem está chegando.\n##  Ajude o Mysterious Age a crescer.\n\n**A próxima história do shard pode começar com você.**",
-      "DataUtc": "2026-09-09T14:07:10Z"
-    },
-    {
-      "Id": "1547246845657612298",
-      "Autor": "D I O N I S I O",
-      "Conteudo": "## 🤝 QUEREMOS SABER QUEM ESTÁ CHEGANDO.\n\nMuitas vezes, alguém entra em um shard sem conhecer ninguém, sem saber exatamente por onde começar e precisando apenas de uma pessoa disposta a dar uma mão nos primeiros passos.\n\nAgora teremos a oportunidade de identificar esses jogadores e nos aproximar deles desde o começo.\n\nPor isso, quando vocês veteranos virem um novo aventureiro sendo anunciado:\n\n## ❤️ RECEBAM, CONVERSEM E AJUDEM.\n\nUma orientação que parece pequena para quem já conhece o jogo pode fazer toda a diferença para quem acabou de chegar.\n\n---\n\n# 🏠 O NOVATO TAMBÉM PODERÁ CONQUISTAR SUA PRIMEIRA CASA\n\nDepois da vinculação, o novo jogador receberá dentro do próprio jogo uma **mini missão especial**.\n\nAs instruções serão apresentadas através de um Gump.\n\nEle deverá seguir o que for solicitado e vir até o Discord para pedir sua primeira casa.\n\nNosso **Mysterious Bot** identificará automaticamente quando a missão for realizada corretamente.\n\nDepois da confirmação:\n\n## 🏠 A DEED DA PRIMEIRA CASA SERÁ ENTREGUE AUTOMATICAMENTE NO BANCO DO JOGADOR.\n\nNão será necessário um GM entregar manualmente a recompensa.\n\nA ideia é transformar a chegada de cada novo aventureiro em uma oportunidade para que ele **conheça nossa comunidade e para que nossa comunidade conheça quem acabou de chegar**.",
-      "DataUtc": "2026-09-09T14:06:34Z"
-    },
-    {
-      "Id": "1547246765386764388",
-      "Autor": "D I O N I S I O",
-      "Conteudo": "---\n\n# 🔒 REGRAS IMPORTANTES\n\n• Somente o personagem responsável pelo **último golpe** recebe a Prova de Batalha.\n\n• A prova fica vinculada à **kill + conta + Discord**.\n\n• A screenshot deve mostrar a **Prova de Batalha**.\n\n• O jogador possui **15 minutos** após a morte para concluir o processo.\n\n• Afastar-se mais de **10 tiles** do local da morte fecha o Gump.\n\n• Cada código pertence exclusivamente àquela morte.\n\n• Um código antigo não poderá ser reutilizado.\n\n• Uma kill já recompensada **não poderá gerar uma segunda recompensa**.\n\n• Screenshots antigas ou provas pertencentes a outro jogador não gerarão pagamento.\n\n---\n\n# 🌱 E QUEM ESTÁ COMEÇANDO AGORA?\n\nTambém estamos utilizando essa integração para melhorar completamente a recepção dos novos jogadores.\n\nQuando um verdadeiro novato entrar no **Mysterious Age**, o próprio jogo fornecerá instruções para que ele vincule sua conta ao Discord.\n\nEle utilizará:\n\n`.codigo`\n\ne concluirá a vinculação pelo Discord.\n\nAo realizar sua primeira vinculação como novato, ele receberá:\n\n## 💰 10.000 GOLD DE BOAS-VINDAS\n\nAlém disso, sua chegada será anunciada automaticamente em nosso canal:\n\n<#1544868577067143218>\n\nIsso tem um propósito muito importante.",
-      "DataUtc": "2026-09-09T14:06:15Z"
     }
   ]
 }
