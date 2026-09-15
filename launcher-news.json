@@ -1,6 +1,18 @@
 ﻿{
-  "UpdatedAtUtc": "2026-09-15T02:58:16Z",
+  "UpdatedAtUtc": "2026-09-15T12:27:45Z",
   "Items": [
+    {
+      "Id": "1549368147767984229",
+      "Autor": "D I O N I S I O",
+      "Conteudo": "---\n\n# ⚠️ NÃO IGNORE ESTA ATUALIZAÇÃO\n\nReforçando: **não se trata apenas de uma atualização comum de arquivos**.\n\nÉ uma **ATUALIZAÇÃO DE MAPA**, portanto manter esses arquivos atualizados é essencial para que seu client esteja de acordo com as alterações realizadas no Mysterious Age.\n\nSe quiser adiantar, faça a atualização manual.\n\nCaso prefira aguardar, os arquivos também serão disponibilizados através do Launcher para atualização automática.\n\n---\n\n## ❤️ Por enquanto é isso!\n\nMais uma vez, **muito obrigado a todos** que continuam conosco, participando, ajudando, testando e acompanhando a evolução do Mysterious Age.\n\nTem muita coisa sendo feita e ainda temos bastante coisa pela frente.\n\n# 🔥 O TRABALHO CONTINUAAAA!\n\n**Nos vemos dentro do Mysterious Age! ⚔️**\n\n@everyone",
+      "DataUtc": "2026-09-15T10:35:52Z"
+    },
+    {
+      "Id": "1549368125223608390",
+      "Autor": "D I O N I S I O",
+      "Conteudo": "# ATUALIZAÇÃO IMPORTANTE DE MAPA — MYSTERIOUS AGE\n\nAtenção, pessoal!\n\nTemos uma **nova atualização dos arquivos de mapa do Mysterious Age** disponível para download.\n\n## ⚠️ ESTA ATUALIZAÇÃO É ESSENCIAL!\n\nComo estamos falando de **arquivos de mapa**, é muito importante que todos mantenham o client atualizado para visualizar corretamente as mudanças realizadas no mundo.\n\nQuem quiser **adiantar a atualização manualmente** já pode fazer isso agora. O processo é bem simples.\n\n---\n\n# 📥 COMO ATUALIZAR MANUALMENTE\n\n**1.** Baixe o pacote de atualização no link abaixo:\n\nhttps://drive.google.com/file/d/1cYKEY7qEWzCGZqxkRrHRm-Oe-78aDmq_/view?usp=sharing\n\n**2.** Após terminar o download, **descompacte o arquivo**.\n\n**3.** Pegue os arquivos que foram descompactados e coloque-os **diretamente dentro da pasta do seu jogo Mysterious Age**.\n\n**4.** Quando o Windows perguntar se deseja substituir os arquivos existentes:\n\n## ✅ ESCOLHA SUBSTITUIR TODOS.\n\nPronto! Depois disso, seu mapa estará atualizado.\n\n---\n\n#  ATUALIZAÇÃO PELO LAUNCHER\n\nO <@1490478044220100608>  também irá adicionar esses arquivos às atualizações do nosso **Launcher**.\n\nAssim que estiverem disponíveis por lá, quem utiliza o Launcher receberá a atualização **automaticamente**.\n\nPorém, quem não quiser esperar e quiser deixar tudo atualizado desde já pode simplesmente realizar o procedimento manual explicado acima.\n\n###  Baixar\n###  Descompactar\n### Jogar os arquivos na pasta do jogo\n### Substituir todos\n\nÉ só isso!",
+      "DataUtc": "2026-09-15T10:35:46Z"
+    },
     {
       "Id": "1549253534837506140",
       "Autor": "C E I F A D O R",
@@ -24,18 +36,6 @@
       "Autor": "C E I F A D O R",
       "Conteudo": "# 🏰 O NOVO LAUNCHER DO MYSTERIOUS AGE ESTÁ DISPONÍVEL!\n\nÉ com muito trabalho, dedicação e orgulho que anunciamos oficialmente a chegada do nosso novo **Mysterious Age Launcher**!\n\nDesenvolvemos uma plataforma própria para tornar a entrada no jogo mais simples, rápida e organizada, reunindo atualização automática, gerenciamento de personagens e nosso próprio assistente em um único lugar.\n\n## 🆕 PARA NOVOS JOGADORES\n\nQuem ainda não possui o Mysterious Age deve baixar o instalador diretamente em nosso site:\n\n🌐 **https://mysteriousage.com.br**\n\nApós a instalação, utilize sempre o **MysteriousAgeUpdater.exe** para iniciar o Mysterious Age.\n\nO updater verificará automaticamente todos os arquivos, baixará o que estiver faltando e abrirá o launcher somente quando tudo estiver pronto para jogar.\n\n## ♻️ PARA QUEM JÁ TEM O JOGO INSTALADO\n\nNão é necessário baixar tudo novamente.\n\nFeche o jogo, o launcher e o assistente. Depois, abra:\n\n📁 `C:\\Mysterious Age Shard\\MysteriousAgeUpdater.exe`\n\nO updater baixará automaticamente apenas os arquivos novos ou alterados, incluindo o novo launcher, o Engine atualizado e o MysteriousAssist.",
       "DataUtc": "2026-09-13T23:22:13Z"
-    },
-    {
-      "Id": "1548314826999210027",
-      "Autor": "D I O N I S I O",
-      "Conteudo": "TESTE PUBLICA",
-      "DataUtc": "2026-09-12T12:50:21Z"
-    },
-    {
-      "Id": "1548168829811691614",
-      "Autor": "D I O N I S I O",
-      "Conteudo": "teste",
-      "DataUtc": "2026-09-12T03:10:12Z"
     }
   ]
 }
