@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "Files": [
     {
       "Path": "ClassicUO/Accessibility.dll",
@@ -3322,9 +3322,9 @@
     {
       "Path": "UltimaOnline/map1LegacyMUL.uop",
       "AssetName": "UltimaOnline__map1LegacyMUL.uop",
-      "AssetVersion": "1.0.1",
+      "AssetVersion": "1.0.3",
       "Size": 89965544,
-      "Sha256": "B0FD658D0764BC63656DFFE761A05D9568D2427698C34F3E21E86BCD39318BD6"
+      "Sha256": "DC1A789EF3BFC1EA1C7054BD981A95FB2B45FC0B5C7F6A1C6FC76D76581EE28E"
     },
     {
       "Path": "UltimaOnline/map1xLegacyMUL.uop",
@@ -3336,9 +3336,9 @@
     {
       "Path": "UltimaOnline/map2LegacyMUL.uop",
       "AssetName": "UltimaOnline__map2LegacyMUL.uop",
-      "AssetVersion": "1.0.1",
+      "AssetVersion": "1.0.3",
       "Size": 11326368,
-      "Sha256": "FFA36AF576F8C8E413BA2714BB45DB2E40EE09530908F15991A3E0DF9856DC41"
+      "Sha256": "1B6082895448839B99389D32AB7A81C878D7910A963DCB0EEAE94EBCFE810C55"
     },
     {
       "Path": "UltimaOnline/map2xLegacyMUL.uop",
@@ -5100,9 +5100,9 @@
     {
       "Path": "UltimaOnline/staidx1.mul",
       "AssetName": "UltimaOnline__staidx1.mul",
-      "AssetVersion": "1.0.1",
+      "AssetVersion": "1.0.3",
       "Size": 5505024,
-      "Sha256": "10325D0BB5F35D3BD76641208CBAC7FD8FDE1D4BB38946BC9ABEC285088E076E"
+      "Sha256": "0E1B80CBEDAE6D42473794F88F3AE4351B893AC4B7175CD1C3376B3B45842788"
     },
     {
       "Path": "UltimaOnline/staidx1x.mul",
@@ -5114,9 +5114,9 @@
     {
       "Path": "UltimaOnline/staidx2.mul",
       "AssetName": "UltimaOnline__staidx2.mul",
-      "AssetVersion": "1.0.1",
+      "AssetVersion": "1.0.3",
       "Size": 691200,
-      "Sha256": "C32315FB07885D0E474391AC40DE74BBA60A0D4A64C6A774A7108404792076CA"
+      "Sha256": "DEABA79DCACF35B6864D9FC0CB13C4E3678214C254F085DECAE5185429DD407E"
     },
     {
       "Path": "UltimaOnline/staidx2x.mul",
@@ -5184,9 +5184,9 @@
     {
       "Path": "UltimaOnline/statics1.mul",
       "AssetName": "UltimaOnline__statics1.mul",
-      "AssetVersion": "1.0.1",
-      "Size": 22286502,
-      "Sha256": "F1556889D7F983526059CA06B429400737F1C25B2D9B74F3E5EC4B12B2601CDD"
+      "AssetVersion": "1.0.3",
+      "Size": 22791496,
+      "Sha256": "66D459432BA6CE8ECD2B8C9C72D40E23359878F4C54F28A6B7728ACFA4748C96"
     },
     {
       "Path": "UltimaOnline/statics1x.mul",
@@ -5198,9 +5198,9 @@
     {
       "Path": "UltimaOnline/statics2.mul",
       "AssetName": "UltimaOnline__statics2.mul",
-      "AssetVersion": "1.0.1",
-      "Size": 2500106,
-      "Sha256": "A6F8F1826112367010D4243BCAE2DBB6B16232AF9469C1437E39FA71A3F562C8"
+      "AssetVersion": "1.0.3",
+      "Size": 2850323,
+      "Sha256": "58928AF1CA81FF8946F41CE0AF282648426F31980253C05919F7D80D9FACC363"
     },
     {
       "Path": "UltimaOnline/statics2x.mul",
