@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.0.4",
   "Files": [
     {
       "Path": "ClassicUO/Accessibility.dll",
@@ -2048,16 +2048,16 @@
     {
       "Path": "UltimaOnline/anim4.idx",
       "AssetName": "UltimaOnline__anim4.idx",
-      "AssetVersion": "1.0.1",
+      "AssetVersion": "1.0.4",
       "Size": 1016400,
-      "Sha256": "53D578B83316F749D05AFC059966E293189B03AA3E1B50C31F66FE94529B53BA"
+      "Sha256": "FC5ECB53B3DFBDD8F908F04F97CB0D79B616D3C0A06823EEB15193BFE3B8196C"
     },
     {
       "Path": "UltimaOnline/anim4.mul",
       "AssetName": "UltimaOnline__anim4.mul",
-      "AssetVersion": "1.0.1",
-      "Size": 742522303,
-      "Sha256": "8C714FB0EAA9B1E48FF775A39052B8E894C118944985D37303C496412FF8480D"
+      "AssetVersion": "1.0.4",
+      "Size": 749523076,
+      "Sha256": "1533FC99230AFE4AF276ADE0F24DA7C64C4196EA4ED2C21D68BAADD0269C47B8"
     },
     {
       "Path": "UltimaOnline/anim5.idx",
@@ -2174,23 +2174,23 @@
     {
       "Path": "UltimaOnline/art.mul",
       "AssetName": "UltimaOnline__art.mul",
-      "AssetVersion": "1.0.1",
-      "Size": 137594224,
-      "Sha256": "BA230FA790E68E6CC72DA4B8FD48DE47E3C9F6D2313C6275D0F3480779D930F6"
+      "AssetVersion": "1.0.4",
+      "Size": 137949938,
+      "Sha256": "749E57EB44BCC9868A3FAD907F1C7658312BB64AF4313A8451F709892306800C"
     },
     {
       "Path": "UltimaOnline/artidx.mul",
       "AssetName": "UltimaOnline__artidx.mul",
-      "AssetVersion": "1.0.1",
+      "AssetVersion": "1.0.4",
       "Size": 982608,
-      "Sha256": "33227DDDD1F4663C01B94EA3641A757180A59B8B85BBB9151157A0033A2B5CCC"
+      "Sha256": "B2B77FD5487B280886196741D3A7CAA02C2B3F981FF44AE958A10EE943FDECE4"
     },
     {
       "Path": "UltimaOnline/artLegacyMUL.uop",
       "AssetName": "UltimaOnline__artLegacyMUL.uop",
-      "AssetVersion": "1.0.1",
-      "Size": 149177558,
-      "Sha256": "6B5BACEA9A234148A3B3601ADB6DB269EFCE0D5554229D1FA0DC26C88BA06DC2"
+      "AssetVersion": "1.0.4",
+      "Size": 149533272,
+      "Sha256": "A0A5210D462F4D163A27E38CA4DDFA38CD34D74F9379B20D6F57C1A825A15C86"
     },
     {
       "Path": "UltimaOnline/Arttable.cfg",
@@ -2223,9 +2223,9 @@
     {
       "Path": "UltimaOnline/Bodyconv.def",
       "AssetName": "UltimaOnline__Bodyconv.def",
-      "AssetVersion": "1.0.1",
-      "Size": 35053,
-      "Sha256": "630C6CC6CE5724AACA14A9B6410F6156FAF532E78510F652965F2341B00A93A4"
+      "AssetVersion": "1.0.4",
+      "Size": 35203,
+      "Sha256": "DD666AFAC8D50EFBD494F208BF11F7D253371F598FA3ED967991E8C33982E3AD"
     },
     {
       "Path": "UltimaOnline/Chat.cht",
@@ -2958,9 +2958,9 @@
     {
       "Path": "UltimaOnline/gumpartLegacyMUL.uop",
       "AssetName": "UltimaOnline__gumpartLegacyMUL.uop",
-      "AssetVersion": "1.0.1",
-      "Size": 153559680,
-      "Sha256": "D930B52374F2C3483E127A0783522F1CD40AAFCC827A3C687C6A3C3258F9EC44"
+      "AssetVersion": "1.0.4",
+      "Size": 153565848,
+      "Sha256": "4A96DB95D386F472B1403F454E2C6402466C614F1E38F7F538C3E33E94BB1E5A"
     },
     {
       "Path": "UltimaOnline/Helpindx.dat",
@@ -3392,9 +3392,9 @@
     {
       "Path": "UltimaOnline/mobtypes.txt",
       "AssetName": "UltimaOnline__mobtypes.txt",
-      "AssetVersion": "1.0.1",
-      "Size": 46275,
-      "Sha256": "A5A2FE670CB4D666107F2BE814E48629FCE5BAB033D31A70AA46D2E92F9B208C"
+      "AssetVersion": "1.0.4",
+      "Size": 46410,
+      "Sha256": "4E565D57E9F11CBB691A8167BD15C631B23D567CBB78078667BE2431ECB6E434"
     },
     {
       "Path": "UltimaOnline/multi.idx",
@@ -5317,9 +5317,9 @@
     {
       "Path": "UltimaOnline/tiledata.mul",
       "AssetName": "UltimaOnline__tiledata.mul",
-      "AssetVersion": "1.0.1",
+      "AssetVersion": "1.0.4",
       "Size": 3188736,
-      "Sha256": "DB3E8CA6173E7F8C0B27A3730EA6169678E95358FB2EE8BED5F8A72E9F1D449B"
+      "Sha256": "69CC41223F1F206CA43B47CB7B789CC416D1B3A25CD6BE0406976D21B562BAC3"
     },
     {
       "Path": "UltimaOnline/Tilehelp.cht",
