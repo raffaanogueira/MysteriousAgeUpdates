@@ -1,6 +1,12 @@
 ﻿{
-  "UpdatedAtUtc": "2026-10-07T05:11:39Z",
+  "UpdatedAtUtc": "2026-10-12T02:26:57Z",
   "Items": [
+    {
+      "Id": "1557263859113271367",
+      "Autor": "D I O N I S I O",
+      "Conteudo": "## NOVO NPC — MESTRE DOS COMPANHEIROS\n\nChegou um novo serviço para quem gosta de evoluir e testar seus pets!\n\nO **Mestre dos Companheiros** agora permite que você **resete completamente um pet treinado**, fazendo com que ele volte como um novo exemplar da mesma espécie.\n\n### COMO FUNCIONA?\n\nAo utilizar o NPC:\n\n- dê **2 cliques** nele;\n- leia as informações do serviço;\n- clique em **Escolher Animal**;\n- selecione o pet que deseja resetar;\n- confirme a operação.\n\n### O QUE É RESETADO?\n\nTodo o desenvolvimento atual do pet será perdido, incluindo:\n\n- atributos;\n- skills;\n- habilidades;\n- treinamento;\n- evolução feita pelo sistema de pets.\n\nOu seja: ele volta praticamente ao estado de um **novo spawn**, pronto para ser treinado novamente do zero.\n\n### O QUE É MANTIDO?\n\nPara que você não perca a identidade do seu companheiro, o sistema preserva:\n\n- **nome do pet**;\n- **cor / Hue**;\n- **dono atual**;\n- **vínculo com o jogador**\n\n### IMPORTANTE\n\nUse o serviço com atenção.\n\nAo confirmar o reset, o pet anterior deixa de existir e um novo exemplar da mesma espécie é criado.\n\nIsso significa que os novos atributos podem vir melhores ou piores do que os anteriores, já que eles são gerados novamente conforme os valores naturais da própria criatura.\n\nÉ uma nova chance para quem quer tentar um pet melhor, refazer o treinamento ou simplesmente começar sua evolução novamente.\n\n**Procure o Mestre dos Companheiros em Velmora e dê uma nova chance ao seu fiel aliado.**\n\nBom jogo a todos!\n\n@everyone",
+      "DataUtc": "2026-10-07T05:30:36Z"
+    },
     {
       "Id": "1557012890631020665",
       "Autor": "D I O N I S I O",
@@ -30,12 +36,6 @@
       "Autor": "D I O N I S I O",
       "Conteudo": "---------------------------------------------------------------------------------------------------\n\n🔥 **FEITOS ESPECIAIS DA TEMPORADA**\n\n🔥 **GUERREIRO E MAGNATA — Gayrrerinho**\n\n**Gayrrerinho** não veio para brincar nesta temporada.\n\n⚔️ **2º em PvM**\n💰 **2º em Gold**\n\nAlém de destruir criaturas, ainda encontrou tempo para construir uma das maiores fortunas do reino.\n\n**Esse guerreiro sabe transformar batalha em riqueza.**\n\n🔥 **GUERREIRO E MAGNATA — Jaspion**\n\n**Jaspion** não veio para brincar nesta temporada.\n\n⚔️ **1º em PvM**\n💰 **1º em Gold**\n\nAlém de destruir criaturas, ainda encontrou tempo para construir uma das maiores fortunas do reino.\n\n**Esse guerreiro sabe transformar batalha em riqueza.**",
       "DataUtc": "2026-10-01T03:10:06Z"
-    },
-    {
-      "Id": "1555054098535944284",
-      "Autor": "D I O N I S I O",
-      "Conteudo": "@everyone\n\n🏆 **FIM DA TEMPORADA — MYSTERIOUS AGE**\n\n📜 **OS GRANDES NOMES DA TEMPORADA**\n\nAs batalhas terminaram. As contas foram feitas.\nAgora resta registrar aqueles que dominaram o reino.\n\n⚔️ **CAMPEÕES DO PvM**\n\n🥇 **1º — Jaspion**\n`5.717.059 pontos`\n\n🥈 **2º — Gayrrerinho**\n`4.393.869 pontos`\n\n🥉 **3º — Xunda**\n`3.365.935 pontos`\n\n💰 **MAIORES FORTUNAS**\n\n🥇 **1º — Jaspion**\n`25.715.756 gold`\n\n🥈 **2º — Gayrrerinho**\n`21.900.389 gold`\n\n🥉 **3º — Xunda**\n`19.777.607 gold`\n\n👑 **LENDAS DA FAMA**\n\n🥇 **1º — Stark**\n`64 fama`\n\n🥈 **2º — C E I F A D O R**\n`30 fama`\n\n🥉 **3º — Lohan Roannor**\n`22 fama`",
-      "DataUtc": "2026-10-01T03:09:48Z"
     }
   ]
 }
