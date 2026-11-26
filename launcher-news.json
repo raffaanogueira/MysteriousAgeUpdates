@@ -1,5 +1,5 @@
 ﻿{
-  "UpdatedAtUtc": "2026-11-26T02:02:31Z",
+  "UpdatedAtUtc": "2026-11-26T04:25:34Z",
   "Items": [
     {
       "Id": "1575330884154826893",
@@ -36,6 +36,30 @@
       "Autor": "D I O N I S I O",
       "Conteudo": "# NOCTHAR — NOVAS INVOCAÇÕES\n\n## VÓRTICE DO ABISMO — NÍVEL 90\n\nAo alcançar o nível 90 de Nocthar, a magia **Energy Vortex** passará a invocar uma poderosa entidade exclusiva do pacto.\n\n**Características:**\n\nO Vórtice possui três habilidades especiais: **Ecos do Abismo, Colapso e Ruptura.**\n\nUma entidade ofensiva capaz de liberar grandes quantidades de energia espiritual durante o combate.\n\n## ARAUTO DO VÉU — NÍVEL 110\n\nUma antiga entidade das profundezas de Tale Ouvndi poderá ser trazida ao mundo através de um ritual de sacrifício.\n\n**Requisitos:**\n\n- Nocthar nível 110.\n- Amuleto Nocthar nível 30.\n- 30 almas livres.\n- Três manifestações elementais vivas para sacrificar.\n- 6 slots disponíveis após o sacrifício.\n\nAcesse o painel espiritual através da skill Spirit Speak ou do comando `.gumpSS` e selecione **Invocar Arauto do Véu**.\n\n**Habilidades exclusivas:**\n\n- **Correntes do Véu:** aumenta o dano recebido pelo inimigo em 40% e reduz em 30% o dano que ele causa ao Arauto durante 8 segundos.\n- **Fogo Negro:** libera uma devastadora energia sombria em área.\n- **Legião do Véu:** invoca duas manifestações ardentes e uma rochosa temporariamente, sem consumir slots adicionais.\n\nO Arauto continuará evoluindo conforme o nível do pacto, tornando-se cada vez mais poderoso!",
       "DataUtc": "2026-11-26T01:56:46Z"
+    },
+    {
+      "Id": "1575329093484806205",
+      "Autor": "D I O N I S I O",
+      "Conteudo": "# MYSTERIOUS AGE — ATUALIZAÇÃO - 26/11\n\n## 🌑 NOCTHAR — A ASCENSÃO DAS SOMBRAS\n\nNovos poderes, sistemas de evolução, melhorias marítimas e uma nova dungeon aguardam os aventureiros de Britânia.\n\n## NOVO PAINEL ESPIRITUAL\n\nA skill **Spirit Speak** passa a ser fundamental para os seguidores de Nocthar.\n\nAo clicar na skill Spirit Speak com o pacto Nocthar ativo, será aberto automaticamente o novo painel de evolução espiritual. Também será possível acessá-lo pelo comando `.gumpSS`.\n\nAtravés desse painel, você poderá:\n\n- Coletar almas utilizando o botão azul.\n- Acompanhar suas almas livres e vinculadas.\n- Visualizar suas manifestações ativas.\n- Consultar os slots ocupados e disponíveis.\n- Canalizar almas para fortalecer suas invocações.\n- Descartar almas livres.\n- Realizar os novos rituais de invocação e transformação.\n\nNovas opções serão desbloqueadas conforme sua evolução no pacto.\n\n## SISTEMA DE ALMAS\n\nVocê poderá coletar até **30 almas** através de Spirit Speak.\n\nAs almas coletadas fortalecem suas próximas invocações, aumentando seus atributos conforme seu domínio espiritual.\n\nTambém será possível canalizar 10 almas por vez em uma manifestação já invocada, fortalecendo seus atributos, skills e habilidades especiais.\n\nCada canalização consome um slot adicional, podendo ser realizada até três vezes por manifestação.\n\n## EVOLUÇÃO DOS SLOTS\n\n- **Inicial:** 5 slots.\n- **Nível 30:** 6 slots.\n- **Nível 100:** 7 slots.\n- **Nível 150:** 8 slots.\n\nAdministrar suas almas e seus seguidores será fundamental para alcançar o verdadeiro poder de Nocthar!",
+      "DataUtc": "2026-11-26T01:55:24Z"
+    },
+    {
+      "Id": "1575328651061497927",
+      "Autor": "D I O N I S I O",
+      "Conteudo": "# COMUNICADO — MANUTENÇÃO E ATUALIZAÇÕES\n\nBoa noite, galera! Como vocês estão?\n\nAmanhã, quinta-feira (26/11), o shard entrará em manutenção por volta das **16h**. Como não conseguirei estar presente aqui no Discord nesse horário, estou antecipando o anúncio das novidades que serão implementadas.\n\nAlém das atualizações anunciadas abaixo, também realizarei alguns ajustes internos no servidor.\n\n**Sobre o evento:** se tudo correr conforme o planejado, teremos um evento amanhã à noite, entre **21h e 22h**. Então, fiquem ligados! Caso não seja possível realizá-lo amanhã, na sexta-feira teremos evento garantido.\n\nVale lembrar que todas as novidades estão sujeitas a ajustes de balanceamento, tanto para melhorias quanto para possíveis nerfs, caso algum sistema ou habilidade apresente um desempenho acima do esperado.\n\nConto com a colaboração de vocês nos testes e feedbacks. A participação da comunidade é fundamental para continuar aprimorando o shard e proporcionando uma experiência cada vez melhor para todos.\n\nNo mais, é isso! Espero que gostem das novidades que preparei.\n\n**Confiram abaixo todas as atualizações!**\n\n@everyone",
+      "DataUtc": "2026-11-26T01:53:38Z"
+    },
+    {
+      "Id": "1574068344368275549",
+      "Autor": "D I O N I S I O",
+      "Conteudo": "# MYSTERIOUS AGE — UMA NOVA ERA COMEÇA!\n\n**O NOVO SITE OFICIAL DO MYSTERIOUS AGE ESTÁ NO AR!**\n\nAs terras de Britânia ganharam um novo portal para suas aventuras!\n\nO site do **Mysterious Age** foi completamente renovado, trazendo um visual medieval mais moderno, navegação aprimorada, conteúdos atualizados e novas funcionalidades para toda a comunidade!\n\n- AS NOVIDADES!\n\n🏆 **RANKINGS PvM E FAMA**\nAcompanhe os maiores guerreiros de Britânia! Os rankings agora estão integrados diretamente ao servidor, com **atualizações automáticas**, exibindo a evolução e as conquistas dos jogadores!\n\n⚔️ **OS 8 PACTOS DO MYSTERIOUS AGE**\nConheça os diferentes caminhos de poder, suas características e vantagens. Descubra qual pacto combina com seu estilo de jogo!\n\n---\n\n## ACESSE AGORA O NOVO SITE OFICIAL!\n\n🔗 **https://www.mysteriousage.com.br**\n\nA essência de **Ultima Online** continua viva! A nostalgia permanece, mas o mundo de Mysterious Age continua crescendo e evoluindo!\n\n**MYSTERIOUS AGE — O MUNDO É ANTIGO. AS LENDAS SÃO ETERNAS!**\n\n@everyone",
+      "DataUtc": "2026-11-22T14:25:38Z"
+    },
+    {
+      "Id": "1571835023387140148",
+      "Autor": "D I O N I S I O",
+      "Conteudo": "**E tem mais uma novidade!**\n\nApós finalizar os testes e entender como todo esse sistema está funcionando na prática, pretendo desenvolver **um NOVO PACTO voltado ao Treasure Hunter**, com uma identidade própria e vantagens relacionadas à caça ao tesouro.\n\nMas isso será uma próxima etapa. Primeiro, quero deixar toda a estrutura funcionando muito bem e devidamente balanceada.\n\n**Preparem suas pás, seus lockpicks e seus equipamentos. Os maiores tesouros de Britânia não serão conquistados facilmente!**\n\n**MYSTERIOUS AGE — A aventura está apenas começando!**\n\n@everyone",
+      "DataUtc": "2026-11-16T10:31:12Z"
     }
   ]
 }
