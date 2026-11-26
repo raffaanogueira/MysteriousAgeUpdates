@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.4",
+  "Version": "1.0.5",
   "Files": [
     {
       "Path": "ClassicUO/Accessibility.dll",
@@ -2048,16 +2048,16 @@
     {
       "Path": "UltimaOnline/anim4.idx",
       "AssetName": "UltimaOnline__anim4.idx",
-      "AssetVersion": "1.0.4",
+      "AssetVersion": "1.0.5",
       "Size": 1016400,
-      "Sha256": "FC5ECB53B3DFBDD8F908F04F97CB0D79B616D3C0A06823EEB15193BFE3B8196C"
+      "Sha256": "4A8A63386F7E707580C7D387285DB19905FD74E20F122F89D109CD17D6E528AE"
     },
     {
       "Path": "UltimaOnline/anim4.mul",
       "AssetName": "UltimaOnline__anim4.mul",
-      "AssetVersion": "1.0.4",
-      "Size": 749523076,
-      "Sha256": "1533FC99230AFE4AF276ADE0F24DA7C64C4196EA4ED2C21D68BAADD0269C47B8"
+      "AssetVersion": "1.0.5",
+      "Size": 829850208,
+      "Sha256": "BA66BBE353B862E1FC8436D41B6AC739EF157D608529729AFFC7E21690361C96"
     },
     {
       "Path": "UltimaOnline/anim5.idx",
@@ -2223,9 +2223,9 @@
     {
       "Path": "UltimaOnline/Bodyconv.def",
       "AssetName": "UltimaOnline__Bodyconv.def",
-      "AssetVersion": "1.0.4",
-      "Size": 35203,
-      "Sha256": "DD666AFAC8D50EFBD494F208BF11F7D253371F598FA3ED967991E8C33982E3AD"
+      "AssetVersion": "1.0.5",
+      "Size": 35596,
+      "Sha256": "4D29EAB984A5700352FE154E828C48E6AF7468F5667B134DEFE578F0B123601D"
     },
     {
       "Path": "UltimaOnline/Chat.cht",
@@ -3392,9 +3392,9 @@
     {
       "Path": "UltimaOnline/mobtypes.txt",
       "AssetName": "UltimaOnline__mobtypes.txt",
-      "AssetVersion": "1.0.4",
-      "Size": 46410,
-      "Sha256": "4E565D57E9F11CBB691A8167BD15C631B23D567CBB78078667BE2431ECB6E434"
+      "AssetVersion": "1.0.5",
+      "Size": 46772,
+      "Sha256": "1237AEC250D1748367593DFBFF7F977CB61927A177F047907A58C91C3F47F271"
     },
     {
       "Path": "UltimaOnline/multi.idx",
